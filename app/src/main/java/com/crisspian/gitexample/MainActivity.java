@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String name = "este es mi nombre";
-        String name = "pues el mío es JJ";
+        String name2 = "pues el mío es JJ";
     }
 }
