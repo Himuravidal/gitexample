@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String name = "este es mi nombre es Nicols SUazo";
+        String name = "este es mi nombre es Nicols SUo";
     }
 }
